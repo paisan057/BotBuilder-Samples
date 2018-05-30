@@ -68,8 +68,11 @@
                 Resources.RootDialog_Welcome_Title,
                 Resources.RootDialog_Welcome_Subtitle,
                 options,
-                new[] { "https://placeholdit.imgix.net/~text?txtsize=56&txt=Contoso%20Flowers&w=640&h=330" });
+                new[] { " https://paisanstorageaccount.blob.core.windows.net/myblob/DHL/DHL-logo-880x704.png" });
 
+            //new[] { "https://placeholdit.imgix.net/~text?txtsize=56&txt=Contoso%20Flowers&w=640&h=330" });
+            
+            
             await context.PostAsync(reply);
 
             context.Wait(this.OnOptionSelected);

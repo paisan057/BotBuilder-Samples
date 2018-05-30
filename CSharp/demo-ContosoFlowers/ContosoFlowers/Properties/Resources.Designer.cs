@@ -371,7 +371,7 @@ namespace ContosoFlowers.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to These are the flowers you are looking for!.
+        ///   Looks up a localized string similar to What kind of service you are looking for!.
         /// </summary>
         internal static string RootDialog_Welcome_Subtitle {
             get {

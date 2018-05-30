@@ -240,7 +240,7 @@ Here is your receipt:</value>
     <value>3. Estimate your item</value>
   </data>
   <data name="RootDialog_Welcome_Subtitle" xml:space="preserve">
-    <value>These are the flowers you are looking for!</value>
+    <value>What kind of service you are looking for!</value>
   </data>
 
   <data name="RootDialog_Welcome_Title" xml:space="preserve">
