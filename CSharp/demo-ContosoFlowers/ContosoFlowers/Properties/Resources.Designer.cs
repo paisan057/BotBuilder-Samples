@@ -326,7 +326,7 @@ namespace ContosoFlowers.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 2. Brach Information.
+        ///   Looks up a localized string similar to 2. Find DHL Branch Information.
         /// </summary>
         internal static string RootDialog_Welcome_Branch_Info {
             get {
@@ -398,7 +398,7 @@ namespace ContosoFlowers.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 1. Tracking Item.
+        ///   Looks up a localized string similar to 1. Tracking your item.
         /// </summary>
         internal static string RootDialog_Welcome_Tracking_Item {
             get {
