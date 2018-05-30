@@ -353,7 +353,7 @@ namespace ContosoFlowers.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Welcome to DHL ChatBot Service. You can now order flowers or talk to support without leaving this bot..
+        ///   Looks up a localized string similar to Welcome to DHL ChatBot Service. You can now use our services via bot..
         /// </summary>
         internal static string RootDialog_Welcome_Message {
             get {
