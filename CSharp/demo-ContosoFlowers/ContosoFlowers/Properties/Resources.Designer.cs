@@ -19,7 +19,7 @@ namespace ContosoFlowers.Properties {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Resources {
@@ -133,7 +133,7 @@ namespace ContosoFlowers.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Please select your billing address?.
+        ///   Looks up a localized string similar to Please select your billing address.
         /// </summary>
         internal static string RootDialog_BillingAddress_SelectSaved {
             get {
@@ -335,7 +335,7 @@ namespace ContosoFlowers.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Welcome to Contoso Flowers. You can now order flowers or talk to support without leaving this bot..
+        ///   Looks up a localized string similar to Welcome to DHL. You can now order flowers or talk to support without leaving this bot..
         /// </summary>
         internal static string RootDialog_Welcome_Message {
             get {

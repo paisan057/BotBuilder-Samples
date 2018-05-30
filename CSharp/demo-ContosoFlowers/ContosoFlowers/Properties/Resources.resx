@@ -222,7 +222,7 @@ Here is your receipt:</value>
     <value>That is not a valid option. Please try again.</value>
   </data>
   <data name="RootDialog_Welcome_Message" xml:space="preserve">
-    <value>Welcome to Contoso Flowers. You can now order flowers or talk to support without leaving this bot.</value>
+    <value>Welcome to DHL. You can now order flowers or talk to support without leaving this bot.</value>
   </data>
   <data name="RootDialog_Welcome_Orders" xml:space="preserve">
     <value>Order flowers</value>
