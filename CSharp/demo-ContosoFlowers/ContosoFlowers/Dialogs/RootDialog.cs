@@ -60,7 +60,9 @@
             {
                // Resources.RootDialog_Welcome_Orders,
                 //Resources.RootDialog_Welcome_Support
-                RootDialog_Welcome_Tracking_Item, RootDialog_Welcome_Branch_Info, RootDialog_Welcome_Estimate_Price
+                Resources.RootDialog_Welcome_Tracking_Item,
+                Resources.RootDialog_Welcome_Branch_Info,
+                Resources.RootDialog_Welcome_Estimate_Price
             };
             reply.AddHeroCard(
                 Resources.RootDialog_Welcome_Title,
