@@ -326,11 +326,29 @@ namespace ContosoFlowers.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 2. Brach Information.
+        /// </summary>
+        internal static string RootDialog_Welcome_Branch_Info {
+            get {
+                return ResourceManager.GetString("RootDialog_Welcome_Branch_Info", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to That is not a valid option. Please try again..
         /// </summary>
         internal static string RootDialog_Welcome_Error {
             get {
                 return ResourceManager.GetString("RootDialog_Welcome_Error", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 3. Estimate your item.
+        /// </summary>
+        internal static string RootDialog_Welcome_Estimate_Price {
+            get {
+                return ResourceManager.GetString("RootDialog_Welcome_Estimate_Price", resourceCulture);
             }
         }
         
@@ -371,11 +389,20 @@ namespace ContosoFlowers.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Welcome to DHL.
+        ///   Looks up a localized string similar to Welcome to DHL ChatBot Service.
         /// </summary>
         internal static string RootDialog_Welcome_Title {
             get {
                 return ResourceManager.GetString("RootDialog_Welcome_Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 1. Tracking Item.
+        /// </summary>
+        internal static string RootDialog_Welcome_Tracking_Item {
+            get {
+                return ResourceManager.GetString("RootDialog_Welcome_Tracking_Item", resourceCulture);
             }
         }
         

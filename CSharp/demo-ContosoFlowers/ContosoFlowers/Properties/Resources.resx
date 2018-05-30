@@ -227,14 +227,24 @@ Here is your receipt:</value>
   <data name="RootDialog_Welcome_Orders" xml:space="preserve">
     <value>Order flowers</value>
   </data>
-  <data name="RootDialog_Welcome_Subtitle" xml:space="preserve">
-    <value>These are the flowers you are looking for!</value>
-  </data>
   <data name="RootDialog_Welcome_Support" xml:space="preserve">
     <value>Talk to support</value>
   </data>
+  <data name="RootDialog_Welcome_Tracking_Item" xml:space="preserve">
+    <value>1. Tracking Item</value>
+  </data>
+  <data name="RootDialog_Welcome_Branch_Info" xml:space="preserve">
+    <value>2. Brach Information</value>
+  </data>
+  <data name="RootDialog_Welcome_Estimate_Price" xml:space="preserve">
+    <value>3. Estimate your item</value>
+  </data>
+  <data name="RootDialog_Welcome_Subtitle" xml:space="preserve">
+    <value>These are the flowers you are looking for!</value>
+  </data>
+
   <data name="RootDialog_Welcome_Title" xml:space="preserve">
-    <value>Welcome to DHL</value>
+    <value>Welcome to DHL ChatBot Service</value>
   </data>
   <data name="SettingsDialog_Address_Entered" xml:space="preserve">
     <value>Thanks! Your {0} address was updated to {1}.</value>
