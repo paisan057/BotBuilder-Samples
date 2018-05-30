@@ -335,7 +335,7 @@ namespace ContosoFlowers.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Welcome to DHL. You can now order flowers or talk to support without leaving this bot..
+        ///   Looks up a localized string similar to Welcome to DHL ChatBot Service. You can now order flowers or talk to support without leaving this bot..
         /// </summary>
         internal static string RootDialog_Welcome_Message {
             get {
@@ -371,7 +371,7 @@ namespace ContosoFlowers.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Welcome to the Contoso Flowers.
+        ///   Looks up a localized string similar to Welcome to DHL.
         /// </summary>
         internal static string RootDialog_Welcome_Title {
             get {
