@@ -344,7 +344,7 @@ namespace ContosoFlowers.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 3. Estimate your item.
+        ///   Looks up a localized string similar to 3. Estimate your derlivery price.
         /// </summary>
         internal static string RootDialog_Welcome_Estimate_Price {
             get {
