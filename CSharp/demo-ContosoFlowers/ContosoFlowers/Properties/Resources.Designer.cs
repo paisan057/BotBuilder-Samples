@@ -362,7 +362,7 @@ namespace ContosoFlowers.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Order flowers.
+        ///   Looks up a localized string similar to Sample Menu.
         /// </summary>
         internal static string RootDialog_Welcome_Orders {
             get {

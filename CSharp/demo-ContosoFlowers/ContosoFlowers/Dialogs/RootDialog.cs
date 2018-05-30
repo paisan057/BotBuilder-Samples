@@ -58,7 +58,7 @@
 
             var options = new[]
             {
-               // Resources.RootDialog_Welcome_Orders,
+               Resources.RootDialog_Welcome_Orders,
                 //Resources.RootDialog_Welcome_Support
                 Resources.RootDialog_Welcome_Tracking_Item,
                 Resources.RootDialog_Welcome_Branch_Info,
