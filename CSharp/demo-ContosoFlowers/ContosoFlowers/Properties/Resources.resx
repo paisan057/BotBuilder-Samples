@@ -244,7 +244,7 @@ Here is your receipt:</value>
   </data>
 
   <data name="RootDialog_Welcome_Title" xml:space="preserve">
-    <value>Welcome to DHL ChatBot Service</value>
+    <value>Welcome to ChatBot Service</value>
   </data>
   <data name="SettingsDialog_Address_Entered" xml:space="preserve">
     <value>Thanks! Your {0} address was updated to {1}.</value>
