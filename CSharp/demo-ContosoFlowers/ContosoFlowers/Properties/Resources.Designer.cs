@@ -326,7 +326,7 @@ namespace ContosoFlowers.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 2. Find DHL Branch Information.
+        ///   Looks up a localized string similar to 2. Find Our Branch Information.
         /// </summary>
         internal static string RootDialog_Welcome_Branch_Info {
             get {
@@ -353,7 +353,7 @@ namespace ContosoFlowers.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Welcome to DHL ChatBot Service. You can now use our services via bot..
+        ///   Looks up a localized string similar to Welcome to ChatBot Service. You can now use our services via bot..
         /// </summary>
         internal static string RootDialog_Welcome_Message {
             get {
