@@ -389,7 +389,7 @@ namespace ContosoFlowers.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Welcome to DHL ChatBot Service.
+        ///   Looks up a localized string similar to Welcome to ChatBot Service.
         /// </summary>
         internal static string RootDialog_Welcome_Title {
             get {
